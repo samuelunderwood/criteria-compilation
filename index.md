@@ -15,5 +15,5 @@ Currently, our database cites criteria from over 70 references, including:
 * Journal articles
 
 ## Unoccupied Noise Level
-[Search for Noise Recommendations](search.html)
+[Search for Unoccupied Noise Levels](search.html)
 
