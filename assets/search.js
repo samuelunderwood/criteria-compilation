@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("_data/noise.json")
+  fetch("assets/noise.json")
     .then(response => response.json())
     .then(data => {
       populateFilters(data);
