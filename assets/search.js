@@ -1,13 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
   fetch("assets/noise.json")
-    .then(response => response.json())
+       .then(response => response.json())
     .then(data => {
       populateFilters(data);
       updateResults(data);
 
       document.getElementById("roomFilter").addEventListener("change", () => updateResults(data));
       document.getElementById("refFilter").addEventListener("change", () => updateResults(data));
-    });
+    })
+    .catch(error => console.error("Error loading JSON:", error)); // Debugging
 
   function populateFilters(data) {
     const roomFilter = document.getElementById("roomFilter");
