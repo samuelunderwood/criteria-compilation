@@ -1,0 +1,30 @@
+---
+layout: default
+title: Search Noise Levels
+---
+
+<h2>Search Recommended Noise Levels</h2>
+
+<label for="roomFilter">Filter by Room Type:</label>
+<select id="roomFilter">
+  <option value="">All</option>
+</select>
+
+<label for="refFilter">Filter by Reference:</label>
+<select id="refFilter">
+  <option value="">All</option>
+</select>
+
+<table>
+  <thead>
+    <tr>
+      <th>Room Type</th>
+      <th>Reference</th>
+      <th>NC Rating</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody id="results"></tbody>
+</table>
+
+<script src="assets/search.js"></script>
