@@ -1,0 +1,7 @@
+title: Criteria Compilation
+description: A compilation of recommended acoustical criteria for different room types in buildings
+collections:
+  rooms:
+    output: true
+  references:
+    output: true
