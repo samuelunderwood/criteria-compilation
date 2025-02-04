@@ -1,5 +1,5 @@
 title: The Criteria Compilation
-description: A searchable compilation of recommended noise levels for different room types.
+description: A compilation of recommended acoustical design criteria for different room types.
 theme: minima
 plugins:
   - jekyll-seo-tag
