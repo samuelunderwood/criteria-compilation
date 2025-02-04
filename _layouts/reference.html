@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<h2>Recommended Noise Levels</h2>
+<ul>
+{% for room in site.data.noise.room_types %}
+    {% for rec in room.recommendations %}
+        {% if rec.reference_id == page.id %}
+            <li>{{ room.name }}: {{ rec.recommended_level }}</li>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+</ul>
