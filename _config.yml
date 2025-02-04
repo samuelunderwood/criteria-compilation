@@ -1,7 +1,3 @@
-title: Criteria Compilation
-description: A compilation of recommended acoustical criteria for different room types in buildings
-collections:
-  rooms:
-    output: true
-  references:
-    output: true
+title: Lighting Recommendations
+description: A searchable compilation of recommended noise levels for different room types.
+theme: minima
