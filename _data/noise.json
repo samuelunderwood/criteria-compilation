@@ -1,0 +1,20 @@
+[
+  {
+    "room_type": "Office (General)",
+    "reference": "ASHRAE Handbook",
+    "NC_rating": "25-35",
+    "notes": "Recommended for general office tasks."
+  },
+  {
+    "room_type": "Office (General)",
+    "reference": "Building Code X",
+    "NC_rating": "25-35",
+    "notes": "Minimum requirement."
+  },
+  {
+    "room_type": "Restaurant Dining",
+    "reference": "Lighting Design Guide",
+    "NC_rating": "35-40",
+    "notes": "Recommended for ambiance."
+  }
+]
