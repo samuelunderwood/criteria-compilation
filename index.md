@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
+Welcome to the Criteria Compilation, an open-source repository for acoustical design criteria in buildings.
 
-# Noise Level Recommendations
-
+## Unoccupied Noise Level
 [Search for Noise Recommendations](search.html)
 
