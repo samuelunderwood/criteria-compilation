@@ -1,20 +1,26 @@
-[
-  {
-    "room_type": "Office (General)",
-    "reference": "ASHRAE Handbook",
-    "NC_rating": "25-35",
-    "notes": "Recommended for general office tasks."
-  },
-  {
-    "room_type": "Office (General)",
-    "reference": "Building Code X",
-    "NC_rating": "25-35",
-    "notes": "Minimum requirement."
-  },
-  {
-    "room_type": "Restaurant Dining",
-    "reference": "Beranek",
-    "NC_rating": "35-40",
-    "notes": "Recommended for ambiance."
-  }
-]
+{
+  "ASHRAE Handbook": [
+    {
+      "room_type": "Office (General)",
+      "NC_rating": "35",
+      "notes": "Recommended for general office tasks."
+    },
+    {
+      "room_type": "Restaurant Dining",
+      "light_level": "45",
+      "notes": "Recommended for ambiance."
+    }
+  ],
+  "Building Code X": [
+    {
+      "room_type": "Office (General)",
+      "NC_rating": "35-45",
+      "notes": "Minimum requirement."
+    },
+    {
+      "room_type": "Library Reading Area",
+      "NC_rating": "30",
+      "notes": "For optimal reading conditions."
+    }
+  ]
+}
