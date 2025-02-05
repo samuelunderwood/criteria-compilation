@@ -1,14 +1,30 @@
 document.addEventListener("DOMContentLoaded", function () {
   fetch("assets/noise.json")
-       .then(response => response.json())
+    .then(response => response.json())
     .then(data => {
-      populateFilters(data);
-      updateResults(data);
+      const flattenedData = flattenData(data);
+      populateFilters(flattenedData);
+      updateResults(flattenedData);
 
-      document.getElementById("roomFilter").addEventListener("change", () => updateResults(data));
-      document.getElementById("refFilter").addEventListener("change", () => updateResults(data));
+      document.getElementById("roomFilter").addEventListener("change", () => updateResults(flattenedData));
+      document.getElementById("refFilter").addEventListener("change", () => updateResults(flattenedData));
     })
-    .catch(error => console.error("Error loading JSON:", error)); // Debugging
+    .catch(error => console.error("Error loading JSON:", error));
+
+  function flattenData(data) {
+    let results = [];
+    for (const [reference, recommendations] of Object.entries(data)) {
+      recommendations.forEach(entry => {
+        results.push({
+          room_type: entry.room_type,
+          reference: reference,
+          NC_rating: entry.NC_rating,
+          notes: entry.notes || ""
+        });
+      });
+    }
+    return results;
+  }
 
   function populateFilters(data) {
     const roomFilter = document.getElementById("roomFilter");
@@ -42,9 +58,10 @@ document.addEventListener("DOMContentLoaded", function () {
           <td>${entry.room_type}</td>
           <td>${entry.reference}</td>
           <td>${entry.NC_rating}</td>
-          <td>${entry.notes || ""}</td>
+          <td>${entry.notes}</td>
         </tr>
       `;
     });
   }
 });
+
