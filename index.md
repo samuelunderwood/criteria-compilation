@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 # Welcome!
-This is the Criteria Compilation, an open-source repository for recommended acoustical design criteria in buildings.
+This is the Criteria Compilation, an open-source repository of recommended acoustical design criteria in buildings.
 
 Currently, our database cites criteria from over 70 references, including:
-* Empirical design guides
+* Design guides
 * Textbooks
 * Building codes
 * Standards
