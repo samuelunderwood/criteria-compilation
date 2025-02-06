@@ -10,6 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
       document.getElementById("categoryFilter").addEventListener("change", () => updateRoomAndRefFilters(flattenedData));
       document.getElementById("roomFilter").addEventListener("change", () => updateResults(flattenedData));
       document.getElementById("refFilter").addEventListener("change", () => updateResults(flattenedData));
+
+      document.getElementById("toggleNC").addEventListener("change", toggleColumns);
+      document.getElementById("toggledBA").addEventListener("change", toggleColumns);
     })
     .catch(error => console.error("Error loading JSON:", error));
 
@@ -21,7 +24,8 @@ document.addEventListener("DOMContentLoaded", function () {
           category: entry.category,
           room_type: entry.room_type,
           reference: reference,
-          NC_rating: entry.NC_rating,
+          NC_rating: entry.NC_rating || "", // Might not exist in all references
+          dBA: entry.dBA || "", // Might not exist in all references
           notes: entry.notes || ""
         });
       });
@@ -75,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     );
 
     if (filteredData.length === 0) {
-      resultsTable.innerHTML = `<tr><td colspan="5">No results found.</td></tr>`;
+      resultsTable.innerHTML = `<tr><td colspan="6">No results found.</td></tr>`;
       return;
     }
 
@@ -85,10 +89,21 @@ document.addEventListener("DOMContentLoaded", function () {
           <td>${entry.category}</td>
           <td>${entry.room_type}</td>
           <td>${entry.reference}</td>
-          <td>${entry.NC_rating}</td>
+          <td class="NC-column">${entry.NC_rating}</td>
+          <td class="dBA-column">${entry.dBA}</td>
           <td>${entry.notes}</td>
         </tr>
       `;
     });
+
+    toggleColumns();
+  }
+
+  function toggleColumns() {
+    let showNC = document.getElementById("toggleNC").checked;
+    let showdBA = document.getElementById("toggledBA").checked;
+
+    document.querySelectorAll(".NC-column").forEach(col => col.style.display = showNC ? "" : "none");
+    document.querySelectorAll(".dBA-column").forEach(col => col.style.display = showdBA ? "" : "none");
   }
 });
