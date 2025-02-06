@@ -1,0 +1,28 @@
+/* Increase the content width */
+.container {
+  max-width: 90%; /* Expand width */
+  margin: auto;
+}
+
+/* Adjust table font size */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px; /* Adjust as needed */
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Optional: Reduce spacing between filters to fit more comfortably */
+.filter-group {
+  margin-bottom: 5px;
+}
+
+/* Optional: Adjust checkbox spacing */
+.filter-group label {
+  margin-right: 15px;
+}
