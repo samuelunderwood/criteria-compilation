@@ -1,11 +1,13 @@
 {
   "ASHRAE Handbook": [
     {
+      "category": "Office",
       "room_type": "Office (General)",
       "NC_rating": "35",
       "notes": "Recommended for general office tasks."
     },
     {
+      "category": "Hospitality",
       "room_type": "Restaurant Dining",
       "light_level": "45",
       "notes": "Recommended for ambiance."
@@ -13,11 +15,13 @@
   ],
   "Building Code X": [
     {
+      "category": "Office",
       "room_type": "Office (General)",
       "NC_rating": "35-45",
       "notes": "Minimum requirement."
     },
     {
+      "category": "Library",
       "room_type": "Library Reading Area",
       "NC_rating": "30",
       "notes": "For optimal reading conditions."
