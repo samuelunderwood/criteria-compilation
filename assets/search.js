@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       const flattenedData = flattenData(data);
       populateCategoryFilter(flattenedData);
-      populateFilters(flattenedData);
+      updateRoomAndRefFilters(flattenedData);
       updateResults(flattenedData);
 
       document.getElementById("categoryFilter").addEventListener("change", () => updateRoomAndRefFilters(flattenedData));
@@ -33,6 +33,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const categoryFilter = document.getElementById("categoryFilter");
     let categories = new Set();
     data.forEach(entry => categories.add(entry.category));
+    
+    categoryFilter.innerHTML = `<option value="">All</option>`;
     categories.forEach(cat => categoryFilter.innerHTML += `<option value="${cat}">${cat}</option>`);
   }
 
@@ -40,6 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const selectedCategory = document.getElementById("categoryFilter").value;
     const roomFilter = document.getElementById("roomFilter");
     const refFilter = document.getElementById("refFilter");
+
     roomFilter.innerHTML = `<option value="">All</option>`;
     refFilter.innerHTML = `<option value="">All</option>`;
 
@@ -71,6 +74,11 @@ document.addEventListener("DOMContentLoaded", function () {
       (selectedRef === "" || entry.reference === selectedRef)
     );
 
+    if (filteredData.length === 0) {
+      resultsTable.innerHTML = `<tr><td colspan="5">No results found.</td></tr>`;
+      return;
+    }
+
     filteredData.forEach(entry => {
       resultsTable.innerHTML += `
         <tr>
@@ -84,5 +92,3 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 });
-
-
