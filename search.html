@@ -5,20 +5,26 @@ title: Unoccupied Noise Levels
 
 <h2>Search Unoccupied Noise Levels</h2>
 
-<label for="categoryFilter">Filter by Category:</label>
-<select id="categoryFilter">
-  <option value="">All</option>
-</select>
+<div class="filter-group">
+  <label for="categoryFilter">Filter by Category:</label>
+  <select id="categoryFilter">
+    <option value="">All</option>
+  </select>
+</div>
 
-<label for="roomFilter">Filter by Room Type:</label>
-<select id="roomFilter">
-  <option value="">All</option>
-</select>
+<div class="filter-group">
+  <label for="roomFilter">Filter by Room Type:</label>
+  <select id="roomFilter">
+    <option value="">All</option>
+  </select>
+</div>
 
-<label for="refFilter">Filter by Reference:</label>
-<select id="refFilter">
-  <option value="">All</option>
-</select>
+<div class="filter-group">
+  <label for="refFilter">Filter by Reference:</label>
+  <select id="refFilter">
+    <option value="">All</option>
+  </select>
+</div>
 
 <table>
   <thead>
@@ -34,3 +40,9 @@ title: Unoccupied Noise Levels
 </table>
 
 <script src="assets/search.js"></script>
+
+<style>
+  .filter-group {
+    margin-bottom: 10px;
+  }
+</style>
