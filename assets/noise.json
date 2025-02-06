@@ -4,12 +4,13 @@
       "category": "Office",
       "room_type": "Office (General)",
       "NC_rating": "35",
+      "dBA": "40",
       "notes": "Recommended for general office tasks."
     },
     {
       "category": "Hospitality",
       "room_type": "Restaurant Dining",
-      "light_level": "45",
+      "dBA": "50",
       "notes": "Recommended for ambiance."
     }
   ],
@@ -18,6 +19,7 @@
       "category": "Office",
       "room_type": "Office (General)",
       "NC_rating": "35-45",
+      "dBA": "40-50",
       "notes": "Minimum requirement."
     },
     {
