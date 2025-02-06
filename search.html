@@ -26,13 +26,19 @@ title: Unoccupied Noise Levels
   </select>
 </div>
 
+<div class="filter-group">
+  <label><input type="checkbox" id="toggleNC" checked> Show NC Rating</label>
+  <label><input type="checkbox" id="toggledBA" checked> Show dBA</label>
+</div>
+
 <table>
   <thead>
     <tr>
       <th>Category</th>
       <th>Room Type</th>
       <th>Reference</th>
-      <th>NC Rating</th>
+      <th class="NC-column">NC Rating</th>
+      <th class="dBA-column">dBA</th>
       <th>Notes</th>
     </tr>
   </thead>
@@ -44,5 +50,8 @@ title: Unoccupied Noise Levels
 <style>
   .filter-group {
     margin-bottom: 10px;
+  }
+  .hidden {
+    display: none;
   }
 </style>
