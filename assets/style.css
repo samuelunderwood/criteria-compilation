@@ -1,6 +1,12 @@
-/* Increase the content width */
+/* Expand the wrapper width */
+.wrapper {
+  max-width: 90%;  /* Make the content use more space */
+  margin: auto;
+}
+
+/* Expand the main container width */
 .container {
-  max-width: 90%; /* Expand width */
+  max-width: 90%;
   margin: auto;
 }
 
