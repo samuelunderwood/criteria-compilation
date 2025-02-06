@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("noise.json")
+  fetch("assets/noise.json")
     .then(response => response.json())
     .then(data => {
       const flattenedData = flattenData(data);
