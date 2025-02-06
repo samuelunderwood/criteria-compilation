@@ -1,13 +1,10 @@
 title: The Criteria Compilation
-author:
-  name: Samuel Underwood
-  email: samuelunderwood@huskers.unl.edu
+
 description: A compilation of recommended acoustical design criteria for different room types.
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
-minima:
-  skin: dark
+
