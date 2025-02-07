@@ -260,19 +260,19 @@
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Patient room",
             "NC_rating": "40",
-            "dBA": 45.0
+            "dBA": "45"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0NICU sleep area",
             "NC_rating": "30",
-            "dBA": 35.0
+            "dBA": "35"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0NICU staff and family areas",
             "NC_rating": "35",
-            "dBA": 40.0
+            "dBA": "40"
         },
         {
             "category": "Hospitals and clinics",
@@ -283,103 +283,103 @@
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Multiple-occupant patient care area",
             "NC_rating": "45",
-            "dBA": 50.0
+            "dBA": "50"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Exam/treatment room",
             "NC_rating": "40",
-            "dBA": 45.0
+            "dBA": "45"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Procedure room",
             "NC_rating": "40",
-            "dBA": 45.0
+            "dBA": "45"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Class 2 imaging room",
             "NC_rating": "40",
-            "dBA": 45.0
+            "dBA": "45"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Operating room",
             "NC_rating": "50",
-            "dBA": 55.0
+            "dBA": "55"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Class 3 imaging room",
             "NC_rating": "50",
-            "dBA": 55.0
+            "dBA": "55"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Telemedicine room",
             "NC_rating": "25",
-            "dBA": 30.0
+            "dBA": "30"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Medication safety zone",
             "NC_rating": "40",
-            "dBA": 45.0
+            "dBA": "45"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Testing/research lab, minimal speech",
             "NC_rating": "55",
-            "dBA": 60.0
+            "dBA": "60"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Research lab, extensive speech",
             "NC_rating": "50",
-            "dBA": 55.0
+            "dBA": "55"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Group teaching lab",
             "NC_rating": "45",
-            "dBA": 50.0
+            "dBA": "50"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Corridor and public area",
             "NC_rating": "45",
-            "dBA": 50.0
+            "dBA": "50"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Conference room",
             "NC_rating": "35",
-            "dBA": 40.0
+            "dBA": "40"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Teleconferencing room",
             "NC_rating": "25",
-            "dBA": 30.0
+            "dBA": "30"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Auditorium",
             "NC_rating": "30",
-            "dBA": 35.0
+            "dBA": "35"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Large lecture room",
             "NC_rating": "30",
-            "dBA": 35.0
+            "dBA": "35"
         },
         {
             "category": "Hospitals and clinics",
             "room_type": "\u00a0Private office",
             "NC_rating": "40",
-            "dBA": 45.0
+            "dBA": "45"
         }
     ],
     "ibc-2021": [
