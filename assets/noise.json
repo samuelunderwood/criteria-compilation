@@ -1,619 +1,724 @@
 {
+    "asaansis12.60p1-2024": [
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "dBA": "\u226435",
+            "notes": "For classrooms \u2264566 cu m(\u226420,000 cu ft)"
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "dBA": "\u226440",
+            "notes": "For classrooms >566 cu m(>20,000 cu ft)"
+        }
+    ],
     "cavanaugh-1988": [
         {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Music performance and recital halls",
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Music performance and recital halls",
             "NC_rating": "\u226415",
-            "dBA": "\u226425"
+            "dBA": "\u226425",
+            "notes": NaN
         },
         {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Opera performance halls",
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Opera performance halls",
             "NC_rating": "\u226415",
-            "dBA": "\u226425"
+            "dBA": "\u226425",
+            "notes": NaN
         },
         {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Radio, recording studios (remote microphone pickup)",
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Radio, recording studios (remote microphone pickup)",
             "NC_rating": "\u226415",
-            "dBA": "\u226425"
+            "dBA": "\u226425",
+            "notes": NaN
         },
         {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Radio, TV, recording studios (close microphone pickup)",
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Radio, TV, recording studios (close microphone pickup)",
             "NC_rating": "\u226425",
-            "dBA": "\u226435"
+            "dBA": "\u226435",
+            "notes": NaN
         },
         {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Large auditoriums for unamplified music and drama",
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Large auditoriums for unamplified music and drama",
             "NC_rating": "\u226420",
-            "dBA": "\u226430"
+            "dBA": "\u226430",
+            "notes": NaN
         },
         {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Small general-purpose auditoriums (<500 seats)",
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Small general-purpose auditoriums (<500 seats)",
             "NC_rating": "\u226430",
-            "dBA": "\u226440"
+            "dBA": "\u226440",
+            "notes": NaN
         },
         {
-            "Category": "Places of Worship",
-            "Room Type": "Small churches and synagogues",
+            "category": "Places of Worship",
+            "room_type": "Small churches and synagogues",
             "NC_rating": "\u226425",
-            "dBA": "\u226435"
+            "dBA": "\u226435",
+            "notes": NaN
         },
         {
-            "Category": "Places of Worship",
-            "Room Type": "Churches, synagogues (for serious liturgical music)",
+            "category": "Places of Worship",
+            "room_type": "Churches, synagogues (for serious liturgical music)",
             "NC_rating": "\u226420",
-            "dBA": "\u226430"
+            "dBA": "\u226430",
+            "notes": NaN
         },
         {
-            "Category": "Education",
-            "Room Type": "General classrooms",
+            "category": "Education",
+            "room_type": "General classrooms",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Education",
-            "Room Type": "Shop classrooms",
+            "category": "Education",
+            "room_type": "Shop classrooms",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and Clinics",
-            "Room Type": "Hospitals",
+            "category": "Hospitals and Clinics",
+            "room_type": "Hospitals",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and Clinics",
-            "Room Type": "Clinics",
+            "category": "Hospitals and Clinics",
+            "room_type": "Clinics",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and Clinics",
-            "Room Type": "Patient waiting spaces",
+            "category": "Hospitals and Clinics",
+            "room_type": "Patient waiting spaces",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Laboratories",
-            "Room Type": "Laboratory",
+            "category": "Laboratories",
+            "room_type": "Laboratory",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "Room Type": "Restaurants",
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurants",
             "NC_rating": "35-45",
-            "dBA": "42-52"
+            "dBA": "42-52",
+            "notes": NaN
         },
         {
-            "Category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "Room Type": "Cafeterias",
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Cafeterias",
             "NC_rating": "35-45",
-            "dBA": "42-52"
+            "dBA": "42-52",
+            "notes": NaN
         },
         {
-            "Category": "Hotels/Motels",
-            "Room Type": "Function rooms",
+            "category": "Hotels/Motels",
+            "room_type": "Function rooms",
             "NC_rating": "\u226430",
-            "dBA": "\u226440"
+            "dBA": "\u226440",
+            "notes": NaN
         },
         {
-            "Category": "Hotels/Motels",
-            "Room Type": "Bedrooms",
+            "category": "Hotels/Motels",
+            "room_type": "Bedrooms",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Conference room",
+            "category": "Offices",
+            "room_type": "Conference room",
             "NC_rating": "\u226430",
-            "dBA": "\u226440"
+            "dBA": "\u226440",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Large offices",
+            "category": "Offices",
+            "room_type": "Large offices",
             "NC_rating": "35-45",
-            "dBA": "42-52"
+            "dBA": "42-52",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Relaxation areas",
+            "category": "Offices",
+            "room_type": "Relaxation areas",
             "NC_rating": "35-45",
-            "dBA": "42-52"
+            "dBA": "42-52",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Private, semi-private offices",
+            "category": "Offices",
+            "room_type": "Private, semi-private offices",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Secreterial offices",
+            "category": "Offices",
+            "room_type": "Secreterial offices",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Drafting rooms",
+            "category": "Offices",
+            "room_type": "Drafting rooms",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "General business",
+            "category": "Offices",
+            "room_type": "General business",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Offices",
-            "Room Type": "Executive offices",
+            "category": "Offices",
+            "room_type": "Executive offices",
             "NC_rating": "25-35",
-            "dBA": "34-42"
+            "dBA": "34-42",
+            "notes": NaN
         },
         {
-            "Category": "Public Buildings",
-            "Room Type": "Public lobbies",
+            "category": "Public Buildings",
+            "room_type": "Public lobbies",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Public Buildings",
-            "Room Type": "Circulation spaces",
+            "category": "Public Buildings",
+            "room_type": "Circulation spaces",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Public Buildings",
-            "Room Type": "Corridors",
+            "category": "Public Buildings",
+            "room_type": "Corridors",
             "NC_rating": "40-50",
-            "dBA": "47-56"
+            "dBA": "47-56",
+            "notes": NaN
         },
         {
-            "Category": "Public Buildings",
-            "Room Type": "Libraries",
+            "category": "Public Buildings",
+            "room_type": "Libraries",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Residences, Apartments, Condominiums",
-            "Room Type": "Dining rooms",
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Dining rooms",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Residences, Apartments, Condominiums",
-            "Room Type": "Apartments with air conditioning",
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Apartments with air conditioning",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Residences, Apartments, Condominiums",
-            "Room Type": "Living rooms",
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Living rooms",
             "NC_rating": "30-40",
-            "dBA": "38-47"
+            "dBA": "38-47",
+            "notes": NaN
         },
         {
-            "Category": "Residences, Apartments, Condominiums",
-            "Room Type": "Private residences",
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Private residences",
             "NC_rating": "25-35",
-            "dBA": "34-42"
+            "dBA": "34-42",
+            "notes": NaN
         },
         {
-            "Category": "Retail",
-            "Room Type": "Retail shops, stores",
+            "category": "Retail",
+            "room_type": "Retail shops, stores",
             "NC_rating": "35-45",
-            "dBA": "42-52"
+            "dBA": "42-52",
+            "notes": NaN
         },
         {
-            "Category": "Industry, Shops, Garages",
-            "Room Type": "Shops, garages, contract equipment rooms",
+            "category": "Industry, Shops, Garages",
+            "room_type": "Shops, garages, contract equipment rooms",
             "NC_rating": "45-60",
-            "dBA": "52-65"
+            "dBA": "52-65",
+            "notes": NaN
         },
         {
-            "Category": "Industry, Shops, Garages",
-            "Room Type": "Kitchens, laundries",
+            "category": "Industry, Shops, Garages",
+            "room_type": "Kitchens, laundries",
             "NC_rating": "45-60",
-            "dBA": "52-65"
+            "dBA": "52-65",
+            "notes": NaN
         },
         {
-            "Category": "Industry, Shops, Garages",
-            "Room Type": "Light maintenance shops",
+            "category": "Industry, Shops, Garages",
+            "room_type": "Light maintenance shops",
             "NC_rating": "45-55",
-            "dBA": "52-61"
+            "dBA": "52-61",
+            "notes": NaN
         },
         {
-            "Category": "Industry, Shops, Garages",
-            "Room Type": "Computer rooms",
+            "category": "Industry, Shops, Garages",
+            "room_type": "Computer rooms",
             "NC_rating": "45-55",
-            "dBA": "52-61"
+            "dBA": "52-61",
+            "notes": NaN
         },
         {
-            "Category": "Industry, Shops, Garages",
-            "Room Type": "Workspaces in which continuous speech communication and telephone use are not required",
+            "category": "Industry, Shops, Garages",
+            "room_type": "Workspaces in which continuous speech communication and telephone use are not required",
             "NC_rating": "60-70",
-            "dBA": "65-75"
+            "dBA": "65-75",
+            "notes": NaN
         }
     ],
     "fgi-2022": [
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Patient room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Patient room",
             "NC_rating": "40",
-            "dBA": "45"
+            "dBA": 45.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0NICU sleep area",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0NICU sleep area",
             "NC_rating": "30",
-            "dBA": "35"
+            "dBA": 35.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0NICU staff and family areas",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0NICU staff and family areas",
             "NC_rating": "35",
-            "dBA": "40"
+            "dBA": 40.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Quiet room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Quiet room",
             "NC_rating": "30-40",
+            "dBA": NaN,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Multiple-occupant patient care area",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Multiple-occupant patient care area",
             "NC_rating": "45",
-            "dBA": "50"
+            "dBA": 50.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Exam/treatment room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Exam/treatment room",
             "NC_rating": "40",
-            "dBA": "45"
+            "dBA": 45.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Procedure room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Procedure room",
             "NC_rating": "40",
-            "dBA": "45"
+            "dBA": 45.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Class 2 imaging room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Class 2 imaging room",
             "NC_rating": "40",
-            "dBA": "45"
+            "dBA": 45.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Operating room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Operating room",
             "NC_rating": "50",
-            "dBA": "55"
+            "dBA": 55.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Class 3 imaging room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Class 3 imaging room",
             "NC_rating": "50",
-            "dBA": "55"
+            "dBA": 55.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Telemedicine room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Telemedicine room",
             "NC_rating": "25",
-            "dBA": "30"
+            "dBA": 30.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Medication safety zone",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Medication safety zone",
             "NC_rating": "40",
-            "dBA": "45"
+            "dBA": 45.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Testing/research lab, minimal speech",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Testing/research lab, minimal speech",
             "NC_rating": "55",
-            "dBA": "60"
+            "dBA": 60.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Research lab, extensive speech",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Research lab, extensive speech",
             "NC_rating": "50",
-            "dBA": "55"
+            "dBA": 55.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Group teaching lab",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Group teaching lab",
             "NC_rating": "45",
-            "dBA": "50"
+            "dBA": 50.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Corridor and public area",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Corridor and public area",
             "NC_rating": "45",
-            "dBA": "50"
+            "dBA": 50.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Conference room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Conference room",
             "NC_rating": "35",
-            "dBA": "40"
+            "dBA": 40.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Teleconferencing room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Teleconferencing room",
             "NC_rating": "25",
-            "dBA": "30"
+            "dBA": 30.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Auditorium",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Auditorium",
             "NC_rating": "30",
-            "dBA": "35"
+            "dBA": 35.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Large lecture room",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Large lecture room",
             "NC_rating": "30",
-            "dBA": "35"
+            "dBA": 35.0,
+            "notes": NaN
         },
         {
-            "Category": "Hospitals and clinics",
-            "Room Type": "\u00a0Private office",
+            "category": "Hospitals and clinics",
+            "room_type": "\u00a0Private office",
             "NC_rating": "40",
-            "dBA": "45"
-        }
-    ],
-    "asaansis12.60p1-2024": [
-        {
-            "Category": "Education",
-            "Room Type": "Classrooms",
-            "dBA": "\u226435"
-        },
-        {
-            "Category": "Education",
-            "Room Type": "Classrooms",
-            "dBA": "\u226440"
-        }
-    ],
-    "knudsenharris-1978": [
-        {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Concert and Opera Halls",
-            "NC_rating": "20-25",
-            "dBA": "30-35"
-        },
-        {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Radio Studios",
-            "NC_rating": "15-20",
-            "dBA": "25-30"
-        },
-        {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Legitimate Theaters (Theatres-500 seats, no amplification)",
-            "NC_rating": "20-25",
-            "dBA": "25-30"
-        },
-        {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Multi-purpose and Assembly Halls",
-            "NC_rating": "20-25",
-            "dBA": "40-45"
-        },
-        {
-            "Category": "Auditoria, Music Halls, Theaters, and Studios",
-            "Room Type": "Movie Theaters/Cinemas",
-            "NC_rating": "35-40",
-            "dBA": "30-35"
-        },
-        {
-            "Category": "Places of Worship",
-            "Room Type": "Churches, no amplification",
-            "NC_rating": "30-35",
-            "dBA": "35-40"
-        },
-        {
-            "Category": "Schools and Lecture Rooms",
-            "Room Type": "Classrooms",
-            "NC_rating": "30-40",
-            "dBA": "35-45"
-        },
-        {
-            "Category": "Schools and Lecture Rooms",
-            "Room Type": "Music rooms, rehearsal rooms",
-            "NC_rating": "20-25",
-            "dBA": "30-35"
-        },
-        {
-            "Category": "Hospitals and Clinics",
-            "Room Type": "Hospitals",
-            "NC_rating": "35-40",
-            "dBA": "40-45"
-        },
-        {
-            "Category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "Room Type": "Restaurants",
-            "NC_rating": "40-50",
-            "dBA": "45-55"
-        },
-        {
-            "Category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "Room Type": "Cafeterias/Canteens",
-            "NC_rating": "40-50",
-            "dBA": "45-55"
-        },
-        {
-            "Category": "Hotels/Motels",
-            "Room Type": "Individual Rooms or Suites",
-            "NC_rating": "30-40",
-            "dBA": "35-45"
-        },
-        {
-            "Category": "Offices",
-            "Room Type": "Private Office",
-            "NC_rating": "35-40",
-            "dBA": "40-45"
-        },
-        {
-            "Category": "Offices",
-            "Room Type": "Conference Room",
-            "NC_rating": "35-40",
-            "dBA": "40-45"
-        },
-        {
-            "Category": "Public Buildings",
-            "Room Type": "Public Libraries",
-            "NC_rating": "35-40",
-            "dBA": "40-45"
-        },
-        {
-            "Category": "Public Buildings",
-            "Room Type": "Banks, General Banking Areas",
-            "NC_rating": "40-45",
-            "dBA": "45-50"
-        },
-        {
-            "Category": "Public Buildings",
-            "Room Type": "Public Offices (large)",
-            "NC_rating": "40-45",
-            "dBA": "45-50"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Courtrooms",
-            "NC_rating": "35-40",
-            "dBA": "40-45"
-        },
-        {
-            "Category": "Residences, Apartments, Condominiums",
-            "Room Type": "Apartments",
-            "NC_rating": "30-40",
-            "dBA": "35-45"
-        },
-        {
-            "Category": "Retail",
-            "Room Type": "Department stores and shops",
-            "NC_rating": "40-45",
-            "dBA": "45-50"
-        }
-    ],
-    "uscourtsguide-2021": [
-        {
-            "Category": "Courthouses",
-            "Room Type": "Courtrooms",
-            "NC_rating": "25-30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Judge's Chambers Private Office",
-            "NC_rating": "35"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Law Clerk's Offices",
-            "NC_rating": "35"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Judge's Chambers Conference/Reference Room",
-            "NC_rating": "35"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Circuit Judge's Robing Room",
-            "NC_rating": "35"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "District, Magistrate, and Bankruptcy Judge's Conference/Robing Room",
-            "NC_rating": "35"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Attorney Work Room",
-            "NC_rating": "35"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "District, Magistrate, and Bankruptcy Attorney/Witness Room",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Public Waiting Areas",
-            "NC_rating": "40"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Jury Assembly Suite",
-            "NC_rating": "40"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Trial Jury Suite",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Grand Jury Hearing Room",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Library Lobby",
-            "NC_rating": "40"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Library Study Room",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Probation and Pretrial Services Private Interview Rooms",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Probation and Pretrial Services Private Offices",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Federal Public Defender's Trial Preparation Suite",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Office of the Bankrupticy Administrator",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Office of the Pre-Argument Conference Attorney",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Shared Judges Conference Room",
-            "NC_rating": "30"
-        },
-        {
-            "Category": "Courthouses",
-            "Room Type": "Judge's Dining Area",
-            "NC_rating": "30"
+            "dBA": 45.0,
+            "notes": NaN
         }
     ],
     "ibc-2021": [
         {
-            "Category": "Education",
-            "Room Type": "Classrooms ",
-            "dBA": "\u226435"
+            "category": "Education",
+            "dBA": "\u226435",
+            "notes": "Requirement only for classrooms \u2264566 cu m(\u226420,000 cu ft)"
+        }
+    ],
+    "knudsenharris-1978": [
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Concert and Opera Halls",
+            "NC_rating": "20-25",
+            "dBA": "30-35",
+            "notes": NaN
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Radio Studios",
+            "NC_rating": "15-20",
+            "dBA": "25-30",
+            "notes": NaN
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Legitimate Theaters (Theatres-500 seats, no amplification)",
+            "NC_rating": "20-25",
+            "dBA": "25-30",
+            "notes": NaN
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Multi-purpose and Assembly Halls",
+            "NC_rating": "20-25",
+            "dBA": "40-45",
+            "notes": NaN
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Movie Theaters/Cinemas",
+            "NC_rating": "35-40",
+            "dBA": "30-35",
+            "notes": NaN
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "Churches, no amplification",
+            "NC_rating": "30-35",
+            "dBA": "35-40",
+            "notes": NaN
+        },
+        {
+            "category": "Schools and Lecture Rooms",
+            "room_type": "Classrooms",
+            "NC_rating": "30-40",
+            "dBA": "35-45",
+            "notes": NaN
+        },
+        {
+            "category": "Schools and Lecture Rooms",
+            "room_type": "Music rooms, rehearsal rooms",
+            "NC_rating": "20-25",
+            "dBA": "30-35",
+            "notes": NaN
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Hospitals",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": NaN
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurants",
+            "NC_rating": "40-50",
+            "dBA": "45-55",
+            "notes": NaN
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Cafeterias/Canteens",
+            "NC_rating": "40-50",
+            "dBA": "45-55",
+            "notes": NaN
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Individual Rooms or Suites",
+            "NC_rating": "30-40",
+            "dBA": "35-45",
+            "notes": NaN
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private Office",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": NaN
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference Room",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": NaN
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Public Libraries",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": NaN
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Banks, General Banking Areas",
+            "NC_rating": "40-45",
+            "dBA": "45-50",
+            "notes": NaN
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Public Offices (large)",
+            "NC_rating": "40-45",
+            "dBA": "45-50",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": NaN
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Apartments",
+            "NC_rating": "30-40",
+            "dBA": "35-45",
+            "notes": NaN
+        },
+        {
+            "category": "Retail",
+            "room_type": "Department stores and shops",
+            "NC_rating": "40-45",
+            "dBA": "45-50",
+            "notes": NaN
+        }
+    ],
+    "uscourtsguide-2021": [
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms",
+            "NC_rating": "25-30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Judge's Chambers Private Office",
+            "NC_rating": "35",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Law Clerk's Offices",
+            "NC_rating": "35",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Judge's Chambers Conference/Reference Room",
+            "NC_rating": "35",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Circuit Judge's Robing Room",
+            "NC_rating": "35",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "District, Magistrate, and Bankruptcy Judge's Conference/Robing Room",
+            "NC_rating": "35",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Attorney Work Room",
+            "NC_rating": "35",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "District, Magistrate, and Bankruptcy Attorney/Witness Room",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Public Waiting Areas",
+            "NC_rating": "40",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Jury Assembly Suite",
+            "NC_rating": "40",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Trial Jury Suite",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Grand Jury Hearing Room",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Library Lobby",
+            "NC_rating": "40",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Library Study Room",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Probation and Pretrial Services Private Interview Rooms",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Probation and Pretrial Services Private Offices",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Federal Public Defender's Trial Preparation Suite",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Office of the Bankrupticy Administrator",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Office of the Pre-Argument Conference Attorney",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Shared Judges Conference Room",
+            "NC_rating": "30",
+            "notes": NaN
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Judge's Dining Area",
+            "NC_rating": "30",
+            "notes": NaN
         }
     ]
 }
