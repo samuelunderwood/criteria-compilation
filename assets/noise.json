@@ -385,6 +385,7 @@
     "ibc-2021": [
         {
             "category": "Education",
+            "room_type": "Classrooms",
             "dBA": "\u226435",
             "notes": "Requirement only for classrooms \u2264566 cu m(\u226420,000 cu ft)"
         }
@@ -427,13 +428,13 @@
             "dBA": "35-40"
         },
         {
-            "category": "Schools and Lecture Rooms",
+            "category": "Education",
             "room_type": "Classrooms",
             "NC_rating": "30-40",
             "dBA": "35-45"
         },
         {
-            "category": "Schools and Lecture Rooms",
+            "category": "Education",
             "room_type": "Music rooms, rehearsal rooms",
             "NC_rating": "20-25",
             "dBA": "30-35"
