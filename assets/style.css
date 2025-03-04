@@ -1,6 +1,0 @@
----
----
-
-@import
-  "_sass/minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "_sass/minima/initialize";
