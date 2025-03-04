@@ -544,13 +544,6 @@
             "notes": "Hourly Leq/Lmax,slow"
         }
     ],
-    "ibc-2021": [
-        {
-            "category": "Education",
-            "dBA": "\u226435",
-            "notes": "Maximum hourly Leq,  no criterion for classrooms >20,000 cu ft"
-        }
-    ],
     "asaansis12.60p1-2024": [
         {
             "category": "Education",
@@ -1450,6 +1443,14 @@
             "NC_rating": "40",
             "dBA": 45.0,
             "notes": ""
+        }
+    ],
+    "ibc-2021": [
+        {
+            "category": "Education",
+            "room_type": "Classrooms \u2264566 cu m(\u226420,000 cu ft)",
+            "dBA": "\u226435",
+            "notes": "Maximum hourly Leq,  no criterion for classrooms >20,000 cu ft"
         }
     ]
 }
