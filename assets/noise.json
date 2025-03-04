@@ -1452,5 +1452,13 @@
             "dBA": "\u226435",
             "notes": "Maximum hourly Leq,  no criterion for classrooms >20,000 cu ft"
         }
+    ],
+    "test-2025": [
+        {
+            "category": "Test cat",
+            "room_type": "Test room",
+            "NC_rating": "20-65",
+            "notes": "<a\u00a0href=\"https://google.com/\">Cites this ref</a>"
+        }
     ]
 }
