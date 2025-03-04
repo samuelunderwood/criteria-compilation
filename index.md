@@ -14,7 +14,7 @@ Currently, our database cites criteria from over 70 references, including:
 * Conference presentations
 * Journal articles
 
-## Unoccupied Noise Levels (single number)
+## Unoccupied Noise Levels
 [Search for Recommended Unoccupied Noise Levels](search.html)
 
 ## Reverberation Time (RT)
