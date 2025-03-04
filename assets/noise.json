@@ -558,62 +558,6 @@
             "notes": "Maximum hourly Leq, interior and exterior sources evaluated independently"
         }
     ],
-    "hassallzaveri-1988": [
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Larger restaurant",
-            "dBA": "45",
-            "notes": ""
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Quiet restaurant",
-            "dBA": "35",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Larger office",
-            "dBA": "35",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Meeting room",
-            "dBA": "35",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Secreterial office (with typewriter)",
-            "dBA": "35",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Larger typing halls",
-            "dBA": "55",
-            "notes": ""
-        },
-        {
-            "category": "Retail",
-            "room_type": "Business store",
-            "dBA": "35",
-            "notes": ""
-        },
-        {
-            "category": "Retail",
-            "room_type": "Department store",
-            "dBA": "35",
-            "notes": ""
-        },
-        {
-            "category": "Industry, Shops, and Garages",
-            "room_type": "Workshops (according to intended use)",
-            "dBA": "45-75",
-            "notes": ""
-        }
-    ],
     "iac-ref-1998": [
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
@@ -1296,155 +1240,6 @@
             "notes": ""
         }
     ],
-    "fgi-2022": [
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Patient room",
-            "NC_rating": "40",
-            "dBA": 45.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "NICU sleep area",
-            "NC_rating": "30",
-            "dBA": 35.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "NICU staff and family areas",
-            "NC_rating": "35",
-            "dBA": 40.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Quiet room",
-            "NC_rating": "30-40",
-            "dBA": "",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Multiple-occupant patient care area",
-            "NC_rating": "45",
-            "dBA": 50.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Exam/treatment room",
-            "NC_rating": "40",
-            "dBA": 45.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Procedure room",
-            "NC_rating": "40",
-            "dBA": 45.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Class 2 imaging room",
-            "NC_rating": "40",
-            "dBA": 45.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Operating room",
-            "NC_rating": "50",
-            "dBA": 55.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Class 3 imaging room",
-            "NC_rating": "50",
-            "dBA": 55.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Telemedicine room",
-            "NC_rating": "25",
-            "dBA": 30.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Medication safety zone",
-            "NC_rating": "40",
-            "dBA": 45.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Testing/research lab, minimal speech",
-            "NC_rating": "55",
-            "dBA": 60.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Research lab, extensive speech",
-            "NC_rating": "50",
-            "dBA": 55.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Group teaching lab",
-            "NC_rating": "45",
-            "dBA": 50.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Corridor and public area",
-            "NC_rating": "45",
-            "dBA": 50.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Conference room",
-            "NC_rating": "35",
-            "dBA": 40.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Teleconferencing room",
-            "NC_rating": "25",
-            "dBA": 30.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Auditorium",
-            "NC_rating": "30",
-            "dBA": 35.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Large lecture room",
-            "NC_rating": "30",
-            "dBA": 35.0,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and clinics",
-            "room_type": "Private office",
-            "NC_rating": "40",
-            "dBA": 45.0,
-            "notes": ""
-        }
-    ],
     "ibc-2021": [
         {
             "category": "Education",
@@ -1458,7 +1253,212 @@
             "category": "Test cat",
             "room_type": "Test room",
             "NC_rating": "20-65",
-            "notes": "<a href=\"https://google.com/\">Cites this ref</a>"
+            "notes": "<a\u00a0href=\"https://google.com/\">Cites this ref</a>"
+        }
+    ],
+    "fgi-2022": [
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Patient room",
+            "NC_rating": "40",
+            "dBA": 45.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "NICU sleep area",
+            "NC_rating": "30",
+            "dBA": 35.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "NICU staff and family areas",
+            "NC_rating": "35",
+            "dBA": 40.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Quiet room",
+            "NC_rating": "30-40",
+            "dBA": "",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Multiple-occupant patient care area",
+            "NC_rating": "45",
+            "dBA": 50.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Exam/treatment room",
+            "NC_rating": "40",
+            "dBA": 45.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Procedure room",
+            "NC_rating": "40",
+            "dBA": 45.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Class 2 imaging room",
+            "NC_rating": "40",
+            "dBA": 45.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Operating room",
+            "NC_rating": "50",
+            "dBA": 55.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Class 3 imaging room",
+            "NC_rating": "50",
+            "dBA": 55.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Telemedicine room",
+            "NC_rating": "25",
+            "dBA": 30.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Medication safety zone",
+            "NC_rating": "40",
+            "dBA": 45.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Testing/research lab, minimal speech",
+            "NC_rating": "55",
+            "dBA": 60.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Research lab, extensive speech",
+            "NC_rating": "50",
+            "dBA": 55.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Group teaching lab",
+            "NC_rating": "45",
+            "dBA": 50.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Corridor and public area",
+            "NC_rating": "45",
+            "dBA": 50.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Conference room",
+            "NC_rating": "35",
+            "dBA": 40.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Teleconferencing room",
+            "NC_rating": "25",
+            "dBA": 30.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Auditorium",
+            "NC_rating": "30",
+            "dBA": 35.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Large lecture room",
+            "NC_rating": "30",
+            "dBA": 35.0,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Private office",
+            "NC_rating": "40",
+            "dBA": 45.0,
+            "notes": ""
+        }
+    ],
+    "hassallzaveri-1988": [
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Larger restaurant",
+            "dBA": "45",
+            "notes": ""
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Quiet restaurant",
+            "dBA": "35",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Larger office",
+            "dBA": "35",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Meeting room",
+            "dBA": "35",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Secreterial office (with typewriter)",
+            "dBA": "35",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Larger typing halls",
+            "dBA": "55",
+            "notes": ""
+        },
+        {
+            "category": "Retail",
+            "room_type": "Business store",
+            "dBA": "35",
+            "notes": ""
+        },
+        {
+            "category": "Retail",
+            "room_type": "Department store",
+            "dBA": "35",
+            "notes": ""
+        },
+        {
+            "category": "Industry, Shops, Garages",
+            "room_type": "Workshops (according to intended use)",
+            "dBA": "45-75",
+            "notes": ""
         }
     ]
 }
