@@ -1,7 +1,7 @@
 title: The Criteria Compilation
 
 description: A compilation of recommended acoustical design criteria for different room types.
-theme: minima
+#theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
