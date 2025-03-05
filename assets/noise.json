@@ -2134,32 +2134,150 @@
             "notes": ""
         }
     ],
+    "markham-libraries-2004": [
+        {
+            "category": "Public Buildings",
+            "room_type": "Public Libraries",
+            "NC_rating": 35,
+            "notes": "Approximately corresponds with the average \"favored\" library spectrum in Fig 1"
+        }
+    ],
+    "antonio-libraries-2019": [
+        {
+            "category": "Public Buildings",
+            "room_type": "Libraries",
+            "NC_rating": 35,
+            "notes": "Branch libraries are treated to same criteria as Main libraries"
+        }
+    ],
+    "kinsler-etal-2009": [
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Concert hall",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Recording studio",
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Music room",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Legitimate theater",
+            "notes": ""
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "Church",
+            "notes": ""
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtroom",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference room",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Hospital",
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Bedroom",
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Library",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private office",
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Living room",
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Classroom",
+            "notes": ""
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurant",
+            "notes": ""
+        },
+        {
+            "category": "Cinema",
+            "room_type": "Movie theater",
+            "notes": ""
+        },
+        {
+            "category": "Retail",
+            "room_type": "Retail shop",
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Bank",
+            "notes": ""
+        },
+        {
+            "category": "Indoor Sports Activities",
+            "room_type": "Gymnasium",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Clerical office",
+            "notes": ""
+        },
+        {
+            "category": "Industry, Shops, Garages",
+            "room_type": "Shops, garage",
+            "notes": ""
+        }
+    ],
     "beranek-1971": [
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
             "room_type": "Concert halls",
-            "NC_rating": "10-20",
+            "NC_rating": "20-Oct",
             "dBA": "21-30*",
             "notes": "(for listening to faint musical sounds)"
         },
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
             "room_type": "Opera houses",
-            "NC_rating": "10-20",
+            "NC_rating": "20-Oct",
             "dBA": "21-30*",
             "notes": "(for listening to faint musical sounds)"
         },
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
             "room_type": "Recital halls",
-            "NC_rating": "10-20",
+            "NC_rating": "20-Oct",
             "dBA": "21-30*",
             "notes": "(for listening to faint musical sounds)"
         },
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
             "room_type": "Broadcast and recording studios",
-            "NC_rating": "10-20",
+            "NC_rating": "20-Oct",
             "dBA": "21-30*",
             "notes": "(distant microphone pickup used)"
         },
@@ -2420,131 +2538,6 @@
             "room_type": "Work spaces where speech or telephone communication is not required, but where there must be no risk of hearing damage",
             "NC_rating": "60-75",
             "dBA": "66-80*",
-            "notes": ""
-        },
-        {
-            "category": NaN,
-            "room_type": NaN,
-            "NC_rating": "",
-            "dBA": "",
-            "notes": ""
-        }
-    ],
-    "markham-libraries-2004": [
-        {
-            "category": "Public Buildings",
-            "room_type": "Public Libraries",
-            "NC_rating": 35,
-            "notes": "Approximately corresponds with the average \"favored\" library spectrum in Fig 1"
-        }
-    ],
-    "antonio-libraries-2019": [
-        {
-            "category": "Public Buildings",
-            "room_type": "Libraries",
-            "NC_rating": 35,
-            "notes": "Branch libraries are treated to same criteria as Main libraries"
-        }
-    ],
-    "kinsler-etal-2009": [
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Concert hall",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Recording studio",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Music room",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Legitimate theater",
-            "notes": ""
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "Church",
-            "notes": ""
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtroom",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference room",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Hospital",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Bedroom",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Library",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private office",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Living room",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Classroom",
-            "notes": ""
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurant",
-            "notes": ""
-        },
-        {
-            "category": "Cinema",
-            "room_type": "Movie theater",
-            "notes": ""
-        },
-        {
-            "category": "Retail",
-            "room_type": "Retail shop",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Bank",
-            "notes": ""
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Gymnasium",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Clerical office",
-            "notes": ""
-        },
-        {
-            "category": "Industry, Shops, Garages",
-            "room_type": "Shops, garage",
             "notes": ""
         }
     ]
