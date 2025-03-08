@@ -15,7 +15,7 @@ Currently, our database cites criteria from over 70 references, including:
 * Journal articles
 
 ## Unoccupied Noise Levels
-[Search for Recommended Unoccupied Noise Levels](search.html)
+[Search for Recommended Indoor Noise Levels](search.html)
 
 ## Reverberation Time (RT)
 Coming soon...
