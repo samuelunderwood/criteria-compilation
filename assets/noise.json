@@ -127,20 +127,6 @@
             "notes": ""
         }
     ],
-    "asaansis12.60p1-2024": [
-        {
-            "category": "Education",
-            "room_type": "Classrooms \u2264566 cu m(\u226420,000 cu ft)",
-            "dBA": "\u226435",
-            "notes": "Maximum hourly Leq, interior and exterior sources evaluated independently"
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms >566 cu m(>20,000 cu ft)",
-            "dBA": "\u226440",
-            "notes": "Maximum hourly Leq, interior and exterior sources evaluated independently"
-        }
-    ],
     "NARA-1571supp5-presidential libraries-2018": [
         {
             "category": "Public Buildings",
@@ -526,323 +512,6 @@
             "notes": ""
         }
     ],
-    "harris-2e-1979": [
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Radio studios",
-            "NC_rating": "15-20",
-            "dBA": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Recording studios",
-            "NC_rating": "15-20",
-            "dBA": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Concert halls",
-            "NC_rating": "20-25",
-            "dBA": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Large auditoriums",
-            "NC_rating": "20-25",
-            "dBA": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Music rooms",
-            "NC_rating": "20-25",
-            "dBA": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Theaters (speech)",
-            "NC_rating": "20-25",
-            "dBA": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Cinema",
-            "room_type": "Motion picture theaters",
-            "NC_rating": "35-40",
-            "dBA": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Hospitals",
-            "NC_rating": "35-40",
-            "dBA": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "Churches",
-            "NC_rating": "30-35",
-            "dBA": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Apartments",
-            "NC_rating": "30-40",
-            "dBA": "35-45",
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Hotel bedrooms",
-            "NC_rating": "30-40",
-            "dBA": "35-45",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms",
-            "NC_rating": "30-40",
-            "dBA": "35-45",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms",
-            "NC_rating": "35-40",
-            "dBA": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Small offices",
-            "NC_rating": "35-40",
-            "dBA": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms",
-            "NC_rating": "35-40",
-            "dBA": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Libraries",
-            "NC_rating": "35-40",
-            "dBA": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Public offices (large)",
-            "NC_rating": "40-45",
-            "dBA": "45-50",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Banks",
-            "NC_rating": "40-45",
-            "dBA": "45-50",
-            "notes": ""
-        },
-        {
-            "category": "Retail",
-            "room_type": "Stores",
-            "NC_rating": "40-45",
-            "dBA": "45-50",
-            "notes": ""
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurants",
-            "NC_rating": "40-50",
-            "dBA": "45-55",
-            "notes": ""
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Cafeterias",
-            "NC_rating": "40-50",
-            "dBA": "45-55",
-            "notes": ""
-        }
-    ],
-    "dolby-schwind-1994": [
-        {
-            "category": "Cinema",
-            "room_type": "Movie theaters/cinema",
-            "NC_rating": "25-35",
-            "notes": "NC rating informs selection of STC rating for theatre common walls, sum of STC + NC should be \u226595"
-        }
-    ],
-    "iac-ref-1998": [
-        {
-            "category": "Cinema",
-            "room_type": "Movie Theaters/Cinemas",
-            "NC_rating": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "Churches",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Lecture and classrooms",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Open-plan classrooms",
-            "NC_rating": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Individual Rooms or Suites",
-            "NC_rating": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Meeting/banquet rooms",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Halls, corridors, lobbies",
-            "NC_rating": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Service/support areas",
-            "NC_rating": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Private rooms",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Wards",
-            "NC_rating": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Operating rooms",
-            "NC_rating": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Corridors",
-            "NC_rating": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Public areas",
-            "NC_rating": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Executive",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference Rooms",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private",
-            "NC_rating": "30-35",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Open-plan areas",
-            "NC_rating": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Computer equipment rooms",
-            "NC_rating": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Public circulation",
-            "NC_rating": "40-45",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Libraries",
-            "NC_rating": "35-40",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Private residences",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Apartments",
-            "NC_rating": "25-30",
-            "notes": ""
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Testing or research with little requirement for speech or study",
-            "NC_rating": "45-55",
-            "notes": ""
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Research, with some communication, telephone, and study",
-            "NC_rating": "40-50",
-            "notes": ""
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Teaching",
-            "NC_rating": "35-45",
-            "notes": ""
-        }
-    ],
-    "imax-2003": [
-        {
-            "category": "Cinema",
-            "room_type": "Movie theaters/cinema",
-            "NC_rating": "\u226425",
-            "notes": "Must meet 31.5 Hz and 16 kHz octave band values, references ISO 9568:1993 and SMPTE RP 141-1995"
-        }
-    ],
     "iso-9568-1993": [
         {
             "category": "Cinema",
@@ -1015,14 +684,6 @@
             "notes": "Mirrored in C.M. Harris (1957) Handbook of Acoustical Measurements and Noise Control, 1st Ed"
         }
     ],
-    "lucasfilm-thx": [
-        {
-            "category": "Cinema",
-            "room_type": "Movie theaters/cinema",
-            "NC_rating": "\u226430",
-            "notes": ""
-        }
-    ],
     "smpte-rp141-2020": [
         {
             "category": "Cinema",
@@ -1041,162 +702,6 @@
             "room_type": "Normal industry theaters",
             "NC_rating": "\u226425",
             "notes": "Must meet 31.5 Hz and 16 kHz octave band values"
-        }
-    ],
-    "harris-3e-1991": [
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Recording studios",
-            "NC_rating": "10-20",
-            "dBA": "18-28*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Concert and recital halls",
-            "NC_rating": "15-20",
-            "dBA": "23-28*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "TV studios",
-            "NC_rating": "20-25",
-            "dBA": "28-33*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Music rooms",
-            "NC_rating": "20-25",
-            "dBA": "28-33*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Legitimate theaters",
-            "NC_rating": "20-25",
-            "dBA": "28-33*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Private residences",
-            "NC_rating": "25-30",
-            "dBA": "33-38*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms",
-            "NC_rating": "25-30",
-            "dBA": "33-38*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Education",
-            "room_type": "Lecture rooms",
-            "NC_rating": "25-30",
-            "dBA": "33-38*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms",
-            "NC_rating": "25-30",
-            "dBA": "33-38*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Executive offices",
-            "NC_rating": "25-30",
-            "dBA": "33-38*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private offices",
-            "NC_rating": "30-35",
-            "dBA": "38-43*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "Churches",
-            "NC_rating": "30-35",
-            "dBA": "38-43*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Cinema",
-            "room_type": "Cinemas",
-            "NC_rating": "30-35",
-            "dBA": "38-43*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Apartments",
-            "NC_rating": "30-35",
-            "dBA": "38-43*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Hotel bedrooms",
-            "NC_rating": "30-35",
-            "dBA": "38-43*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms",
-            "NC_rating": "35-40",
-            "dBA": "43-48*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Open-plan offices",
-            "NC_rating": "35-40",
-            "dBA": "43-48*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Education",
-            "room_type": "Open-plan schools",
-            "NC_rating": "35-40",
-            "dBA": "43-48*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Libraries",
-            "NC_rating": "35-40",
-            "dBA": "43-48*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Lobbies, public areas",
-            "NC_rating": "35-40",
-            "dBA": "43-48*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurants",
-            "NC_rating": "40-45",
-            "dBA": "48-53*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Public offices (large)",
-            "NC_rating": "40-45",
-            "dBA": "48-53*",
-            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
         }
     ],
     "templeton-1999": [
@@ -1565,14 +1070,6 @@
             "room_type": "Cleaners' rooms",
             "NC_rating": "50",
             "notes": ""
-        }
-    ],
-    "markham-libraries-2004": [
-        {
-            "category": "Public Buildings",
-            "room_type": "Public Libraries",
-            "NC_rating": 35,
-            "notes": "Approximately corresponds with the average \"favored\" library spectrum in Fig 1"
         }
     ],
     "antonio-libraries-2019": [
@@ -2400,274 +1897,6 @@
             "notes": ""
         }
     ],
-    "ashrae-ch49-2019": [
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Living areas",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Bathrooms",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Kitchens",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Utility rooms",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Individual room or suites",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Meeting/banquet rooms",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Corridors and lobbies",
-            "NC_rating": 40.0,
-            "dBA": 45,
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Service/support areas",
-            "NC_rating": 40.0,
-            "dBA": 45,
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Executive offices",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private offices",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Teleconference rooms",
-            "NC_rating": 25.0,
-            "dBA": 30,
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Open-plan offices",
-            "NC_rating": 40.0,
-            "dBA": 45,
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Corridors and lobbies",
-            "NC_rating": 40.0,
-            "dBA": 45,
-            "notes": ""
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms, unamplified speech",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms, amplified",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Drama theaters",
-            "NC_rating": 20.0,
-            "dBA": 25,
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Concert halls",
-            "NC_rating": 20.0,
-            "dBA": 25,
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Recital halls",
-            "NC_rating": 20.0,
-            "dBA": 25,
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Music teaching studios",
-            "NC_rating": 25.0,
-            "dBA": 30,
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Music practice rooms",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Patient rooms",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Wards ",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Operating and procedure rooms",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Corridor and lobbies",
-            "NC_rating": 40.0,
-            "dBA": 45,
-            "notes": ""
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Testing/research with minimal speech communication",
-            "NC_rating": 50.0,
-            "dBA": 55,
-            "notes": ""
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Extensive phone use and speech communication",
-            "NC_rating": 45.0,
-            "dBA": 50,
-            "notes": ""
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Group teaching",
-            "NC_rating": 35.0,
-            "dBA": 40,
-            "notes": ""
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "General assembly with critical music programs",
-            "NC_rating": 25.0,
-            "dBA": 30,
-            "notes": "An experienced acoustical consultant should be retained for guidance on acoustically critical spaces (below RC 30) and for all performing arts spaces"
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Large lecture rooms with speech amplification",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Large lecture rooms without speech amplification",
-            "NC_rating": 25.0,
-            "dBA": 30,
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Libraries",
-            "NC_rating": 30.0,
-            "dBA": 35,
-            "notes": ""
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Gymnasiums",
-            "NC_rating": 45.0,
-            "dBA": 50,
-            "notes": "RC or NC criteria for these spaces need only be selected for the desired speech and hearing conditions"
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Natatoriums",
-            "NC_rating": 45.0,
-            "dBA": 50,
-            "notes": "RC or NC criteria for these spaces need only be selected for the desired speech and hearing conditions"
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Large seating capacity spaces with speech amplification",
-            "NC_rating": 50.0,
-            "dBA": 55,
-            "notes": ""
-        },
-        {
-            "category": "Other",
-            "room_type": "Rooms with intrusion from traffic noise",
-            "NC_rating": "",
-            "dBA": 45,
-            "notes": "Intrusive noise is addressed here for use in evaluating possible non-HVAC noise that is likely to contribute to background noise levels"
-        },
-        {
-            "category": "Other",
-            "room_type": "Rooms with intrusion from aircraft flyovers",
-            "NC_rating": "",
-            "dBA": 45,
-            "notes": "Intrusive noise is addressed here for use in evaluating possible non-HVAC noise that is likely to contribute to background noise levels"
-        }
-    ],
     "ashrae-ch8-2019": [
         {
             "category": "Education",
@@ -2866,141 +2095,6 @@
             "category": "Industry, Shops, Garages",
             "room_type": "Shops, garages",
             "notes": ""
-        }
-    ],
-    "igcc-2021": [
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Residential sleeping areas (10pm-7am)",
-            "NC_rating": "",
-            "dBA": "35/45",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Residential living and sleeping areas (daytime)",
-            "NC_rating": "",
-            "dBA": "40/50",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Hotel and motel guest rooms or suites and dormitories",
-            "NC_rating": "",
-            "dBA": "40/50",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Meeting and banquet rooms",
-            "NC_rating": "",
-            "dBA": "35/45",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Corridors and lobbies",
-            "NC_rating": "",
-            "dBA": "45/60",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Service and support areas",
-            "NC_rating": "",
-            "dBA": "45/60",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Enclosed offices",
-            "NC_rating": "",
-            "dBA": "35/45",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms",
-            "NC_rating": "",
-            "dBA": "35/45",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Teleconference rooms",
-            "NC_rating": "",
-            "dBA": "30/40",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Open-plan offices",
-            "NC_rating": "",
-            "dBA": "45/55",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms-unamplified speech",
-            "NC_rating": "",
-            "dBA": "35/45",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms-amplified speech",
-            "NC_rating": "",
-            "dBA": "40/50",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Minimal speech communication",
-            "NC_rating": "",
-            "dBA": "55/65",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Extensive phone use and speech communication",
-            "NC_rating": "",
-            "dBA": "50/60",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Group teaching",
-            "NC_rating": "",
-            "dBA": "40/50",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "General assembly with music program",
-            "NC_rating": "",
-            "dBA": "30/40",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Library study and reading areas",
-            "NC_rating": "",
-            "dBA": "35/45",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Gymnasiums and natatoriums without speech amplification",
-            "NC_rating": "",
-            "dBA": "50/60",
-            "notes": "Hourly Leq/Lmax,slow"
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Gymnasiums and natatoriums with speech amplification",
-            "NC_rating": "",
-            "dBA": "55/65",
-            "notes": "Hourly Leq/Lmax,slow"
         }
     ],
     "knudsen&harris-1978": [
@@ -3716,6 +2810,343 @@
             "notes": ""
         }
     ],
+    "postwar-bldg-study-1944": [
+        {
+            "category": "Other",
+            "room_type": "Study",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Other",
+            "room_type": "Sleeping",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Other",
+            "room_type": "Reading or writing",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Boardroom",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Sedentary office work",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Other",
+            "room_type": "Quiet Conversation",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Average office, telephone work",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurant",
+            "notes": "Standard of quiet for intruding noise"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Noisy office",
+            "notes": "Standard of quiet for intruding noise"
+        }
+    ],
+    "ibc-2021": [
+        {
+            "category": "Education",
+            "room_type": "Classrooms \u2264566 m<sup>3</sup> (\u226420,000 ft<sup>3</sup>)",
+            "dBA": "\u226435",
+            "notes": "Maximum hourly Leq,  no criterion for classrooms >20,000 ft<sup>3</sup>"
+        }
+    ],
+    "asaansis12.60p1-2024": [
+        {
+            "category": "Education",
+            "room_type": "Classrooms \u2264566 m<sup>3</sup> (\u226420,000 ft<sup>3</sup>)",
+            "dBA": "\u226435",
+            "notes": "Maximum hourly Leq, interior and exterior sources evaluated independently"
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms >566 m<sup>3</sup> (>20,000 ft<sup>3</sup>)",
+            "dBA": "\u226440",
+            "notes": "Maximum hourly Leq, interior and exterior sources evaluated independently"
+        }
+    ],
+    "ashrae-ch49-2019": [
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Living areas",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Bathrooms",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Kitchens",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Utility rooms",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Individual room or suites",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Meeting/banquet rooms",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Corridors and lobbies",
+            "NC_rating": 40.0,
+            "dBA": 45,
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Service/support areas",
+            "NC_rating": 40.0,
+            "dBA": 45,
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Executive offices",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private offices",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference rooms",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Teleconference rooms",
+            "NC_rating": 25.0,
+            "dBA": 30,
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Open-plan offices",
+            "NC_rating": 40.0,
+            "dBA": 45,
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Corridors and lobbies",
+            "NC_rating": 40.0,
+            "dBA": 45,
+            "notes": ""
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms (unamplified)",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms (amplified)",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Drama theaters",
+            "NC_rating": 20.0,
+            "dBA": 25,
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Concert halls",
+            "NC_rating": 20.0,
+            "dBA": 25,
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Recital halls",
+            "NC_rating": 20.0,
+            "dBA": 25,
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Music teaching studios",
+            "NC_rating": 25.0,
+            "dBA": 30,
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Music practice rooms",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Patient rooms",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Wards ",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Operating and procedure rooms",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Corridor and lobbies",
+            "NC_rating": 40.0,
+            "dBA": 45,
+            "notes": ""
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Testing/research with minimal speech communication",
+            "NC_rating": 50.0,
+            "dBA": 55,
+            "notes": ""
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Extensive phone use and speech communication",
+            "NC_rating": 45.0,
+            "dBA": 50,
+            "notes": ""
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Group teaching",
+            "NC_rating": 35.0,
+            "dBA": 40,
+            "notes": ""
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "General assembly with critical music programs",
+            "NC_rating": 25.0,
+            "dBA": 30,
+            "notes": "An experienced acoustical consultant should be retained for guidance on acoustically critical spaces (below RC 30) and for all performing arts spaces"
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Large lecture rooms with speech amplification",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Large lecture rooms without speech amplification",
+            "NC_rating": 25.0,
+            "dBA": 30,
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Libraries",
+            "NC_rating": 30.0,
+            "dBA": 35,
+            "notes": ""
+        },
+        {
+            "category": "Indoor Sports Activities",
+            "room_type": "Gymnasiums",
+            "NC_rating": 45.0,
+            "dBA": 50,
+            "notes": "RC or NC criteria for these spaces need only be selected for the desired speech and hearing conditions"
+        },
+        {
+            "category": "Indoor Sports Activities",
+            "room_type": "Natatoriums",
+            "NC_rating": 45.0,
+            "dBA": 50,
+            "notes": "RC or NC criteria for these spaces need only be selected for the desired speech and hearing conditions"
+        },
+        {
+            "category": "Indoor Sports Activities",
+            "room_type": "Large seating capacity spaces with speech amplification",
+            "NC_rating": 50.0,
+            "dBA": 55,
+            "notes": ""
+        },
+        {
+            "category": "Other",
+            "room_type": "Rooms with intrusion from traffic noise",
+            "NC_rating": "",
+            "dBA": 45,
+            "notes": "Intrusive noise is addressed here for use in evaluating possible non-HVAC noise that is likely to contribute to background noise levels"
+        },
+        {
+            "category": "Other",
+            "room_type": "Rooms with intrusion from aircraft flyovers",
+            "NC_rating": "",
+            "dBA": 45,
+            "notes": "Intrusive noise is addressed here for use in evaluating possible non-HVAC noise that is likely to contribute to background noise levels"
+        }
+    ],
     "beranek-1960": [
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
@@ -3740,14 +3171,14 @@
         },
         {
             "category": "Education",
-            "room_type": "Musicrooms",
+            "room_type": "Music rooms",
             "NC_rating": "25",
             "dBA": "35*",
             "notes": ""
         },
         {
             "category": "Education",
-            "room_type": "Schoolrooms (no amplification)",
+            "room_type": "Classrooms (unamplified)",
             "NC_rating": "25",
             "dBA": "35*",
             "notes": ""
@@ -3775,7 +3206,7 @@
         },
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Assembly halls (amplification)",
+            "room_type": "Assembly halls (amplified)",
             "NC_rating": "25-35",
             "dBA": "35-40*",
             "notes": ""
@@ -3803,14 +3234,14 @@
         },
         {
             "category": "Places of Worship",
-            "room_type": "Churches (no amplification)",
+            "room_type": "Churches (unamplified)",
             "NC_rating": "25",
             "dBA": "35*",
             "notes": ""
         },
         {
             "category": "Courthouses",
-            "room_type": "Courtrooms (no amplification)",
+            "room_type": "Courtrooms (unamplified)",
             "NC_rating": "25",
             "dBA": "30-35*",
             "notes": ""
@@ -3831,7 +3262,7 @@
         },
         {
             "category": "Indoor Sports Activities",
-            "room_type": "Coliseums for sports only (amplification)",
+            "room_type": "Coliseums for sports only (amplified)",
             "NC_rating": "50",
             "dBA": "60*",
             "notes": ""
@@ -3914,59 +3345,635 @@
             "notes": "Measurements should be made with office in normal operation, but with no one talking at the particular desk or table where the measurement is being made. Background noise with the office unoccupied should be lower, say by 5 to 10 units"
         }
     ],
-    "postwar-bldg-study-1944": [
+    "igcc-2021": [
         {
-            "category": "Other",
-            "room_type": "Study",
-            "notes": "Standard of quiet for intruding noise"
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Residential sleeping areas (10pm-7am)",
+            "NC_rating": "",
+            "dBA": "35/45",
+            "notes": "Hourly Leq/Lmax,slow"
         },
         {
-            "category": "Other",
-            "room_type": "Sleeping",
-            "notes": "Standard of quiet for intruding noise"
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Residential living and sleeping areas (daytime)",
+            "NC_rating": "",
+            "dBA": "40/50",
+            "notes": "Hourly Leq/Lmax,slow"
         },
         {
-            "category": "Other",
-            "room_type": "Reading or writing",
-            "notes": "Standard of quiet for intruding noise"
+            "category": "Hotels/Motels",
+            "room_type": "Guest rooms or suites and dormitories",
+            "NC_rating": "",
+            "dBA": "40/50",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Meeting and banquet rooms",
+            "NC_rating": "",
+            "dBA": "35/45",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Corridors and lobbies",
+            "NC_rating": "",
+            "dBA": "45/60",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Service and support areas",
+            "NC_rating": "",
+            "dBA": "45/60",
+            "notes": "Hourly Leq/Lmax,slow"
         },
         {
             "category": "Offices",
-            "room_type": "Boardroom",
-            "notes": "Standard of quiet for intruding noise"
+            "room_type": "Enclosed offices",
+            "NC_rating": "",
+            "dBA": "35/45",
+            "notes": "Hourly Leq/Lmax,slow"
         },
         {
             "category": "Offices",
-            "room_type": "Sedentary office work",
-            "notes": "Standard of quiet for intruding noise"
-        },
-        {
-            "category": "Other",
-            "room_type": "Quiet Conversation",
-            "notes": "Standard of quiet for intruding noise"
+            "room_type": "Conference rooms",
+            "NC_rating": "",
+            "dBA": "35/45",
+            "notes": "Hourly Leq/Lmax,slow"
         },
         {
             "category": "Offices",
-            "room_type": "Average office, telephone work",
-            "notes": "Standard of quiet for intruding noise"
+            "room_type": "Teleconference rooms",
+            "NC_rating": "",
+            "dBA": "30/40",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Open-plan offices",
+            "NC_rating": "",
+            "dBA": "45/55",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms (unamplified)",
+            "NC_rating": "",
+            "dBA": "35/45",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms (amplified)",
+            "NC_rating": "",
+            "dBA": "40/50",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Minimal speech communication",
+            "NC_rating": "",
+            "dBA": "55/65",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Extensive phone use and speech communication",
+            "NC_rating": "",
+            "dBA": "50/60",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Group teaching",
+            "NC_rating": "",
+            "dBA": "40/50",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "General assembly with music program",
+            "NC_rating": "",
+            "dBA": "30/40",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Library study and reading areas",
+            "NC_rating": "",
+            "dBA": "35/45",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Indoor Sports Activities",
+            "room_type": "Gymnasiums and natatoriums (unamplified)",
+            "NC_rating": "",
+            "dBA": "50/60",
+            "notes": "Hourly Leq/Lmax,slow"
+        },
+        {
+            "category": "Indoor Sports Activities",
+            "room_type": "Gymnasiums and natatoriums (amplified)",
+            "NC_rating": "",
+            "dBA": "55/65",
+            "notes": "Hourly Leq/Lmax,slow"
+        }
+    ],
+    "lucasfilm-thx": [
+        {
+            "category": "Cinema",
+            "room_type": "Movie theaters",
+            "NC_rating": "\u226430",
+            "notes": ""
+        }
+    ],
+    "imax-2003": [
+        {
+            "category": "Cinema",
+            "room_type": "Movie theaters",
+            "NC_rating": "\u226425",
+            "notes": "Must meet 31.5 Hz and 16 kHz octave band values, references ISO 9568:1993 and SMPTE RP 141-1995"
+        }
+    ],
+    "dolby-schwind-1994": [
+        {
+            "category": "Cinema",
+            "room_type": "Movie theaters",
+            "NC_rating": "25-35",
+            "notes": "NC rating informs selection of STC rating for theatre common walls, sum of STC + NC should be \u226595"
+        }
+    ],
+    "harris-2e-1979": [
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Radio studios",
+            "NC_rating": "15-20",
+            "dBA": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Recording studios",
+            "NC_rating": "15-20",
+            "dBA": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Concert halls",
+            "NC_rating": "20-25",
+            "dBA": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Large auditoriums",
+            "NC_rating": "20-25",
+            "dBA": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Music rooms",
+            "NC_rating": "20-25",
+            "dBA": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Theaters (speech)",
+            "NC_rating": "20-25",
+            "dBA": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Cinema",
+            "room_type": "Movie theaters",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Hospitals",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "Churches",
+            "NC_rating": "30-35",
+            "dBA": "35-40",
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Apartments",
+            "NC_rating": "30-40",
+            "dBA": "35-45",
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Hotel bedrooms",
+            "NC_rating": "30-40",
+            "dBA": "35-45",
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "NC_rating": "30-40",
+            "dBA": "35-45",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference rooms",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Small offices",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Libraries",
+            "NC_rating": "35-40",
+            "dBA": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Public offices (large)",
+            "NC_rating": "40-45",
+            "dBA": "45-50",
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Banks",
+            "NC_rating": "40-45",
+            "dBA": "45-50",
+            "notes": ""
+        },
+        {
+            "category": "Retail",
+            "room_type": "Stores",
+            "NC_rating": "40-45",
+            "dBA": "45-50",
+            "notes": ""
         },
         {
             "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurant",
-            "notes": "Standard of quiet for intruding noise"
+            "room_type": "Restaurants",
+            "NC_rating": "40-50",
+            "dBA": "45-55",
+            "notes": ""
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Cafeterias",
+            "NC_rating": "40-50",
+            "dBA": "45-55",
+            "notes": ""
+        }
+    ],
+    "iac-ref-1998": [
+        {
+            "category": "Cinema",
+            "room_type": "Movie theaters",
+            "NC_rating": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "Churches",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Lecture and classrooms",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Education",
+            "room_type": "Open-plan classrooms",
+            "NC_rating": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Individual rooms or suites",
+            "NC_rating": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Meeting/banquet rooms",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Halls, corridors, lobbies",
+            "NC_rating": "35-40",
+            "notes": ""
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Service/support areas",
+            "NC_rating": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Private rooms",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Wards",
+            "NC_rating": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Operating rooms",
+            "NC_rating": "35-40",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Corridors",
+            "NC_rating": "35-40",
+            "notes": ""
+        },
+        {
+            "category": "Hospitals and Clinics",
+            "room_type": "Public areas",
+            "NC_rating": "35-40",
+            "notes": ""
         },
         {
             "category": "Offices",
-            "room_type": "Noisy office",
-            "notes": "Standard of quiet for intruding noise"
+            "room_type": "Executive",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference Rooms",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private",
+            "NC_rating": "30-35",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Open-plan offices",
+            "NC_rating": "35-40",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Computer equipment rooms",
+            "NC_rating": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Offices",
+            "room_type": "Public circulation",
+            "NC_rating": "40-45",
+            "notes": ""
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Libraries",
+            "NC_rating": "35-40",
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Private residences",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Apartments",
+            "NC_rating": "25-30",
+            "notes": ""
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Testing or research with little requirement for speech or study",
+            "NC_rating": "45-55",
+            "notes": ""
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Research, with some communication, telephone, and study",
+            "NC_rating": "40-50",
+            "notes": ""
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Teaching",
+            "NC_rating": "35-45",
+            "notes": ""
         }
     ],
-    "ibc-2021": [
+    "markham-libraries-2004": [
+        {
+            "category": "Public Buildings",
+            "room_type": "Libraries",
+            "NC_rating": 35,
+            "notes": "Approximately corresponds with the average \"favored\" library spectrum in Fig 1"
+        }
+    ],
+    "harris-3e-1991": [
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Recording studios",
+            "NC_rating": "20-Oct",
+            "dBA": "18-28*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Concert halls",
+            "NC_rating": "15-20",
+            "dBA": "23-28*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Recital halls",
+            "NC_rating": "15-21",
+            "dBA": "23-28*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Television studios",
+            "NC_rating": "20-25",
+            "dBA": "28-33*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Music rooms",
+            "NC_rating": "20-25",
+            "dBA": "28-33*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Legitimate theaters",
+            "NC_rating": "20-25",
+            "dBA": "28-33*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Private residences",
+            "NC_rating": "25-30",
+            "dBA": "33-38*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference rooms",
+            "NC_rating": "25-30",
+            "dBA": "33-38*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
         {
             "category": "Education",
-            "room_type": "Classrooms \u2264566 m<sup>3</sup> (\u226420,000 ft<sup>3</sup>)",
-            "dBA": "\u226435",
-            "notes": "Maximum hourly Leq,  no criterion for classrooms >20,000 ft<sup>3</sup>"
+            "room_type": "Lecture rooms",
+            "NC_rating": "25-30",
+            "dBA": "33-38*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "NC_rating": "25-30",
+            "dBA": "33-38*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Executive offices",
+            "NC_rating": "25-30",
+            "dBA": "33-38*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private offices",
+            "NC_rating": "30-35",
+            "dBA": "38-43*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Places of Worship",
+            "room_type": "Churches",
+            "NC_rating": "30-35",
+            "dBA": "38-43*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Cinema",
+            "room_type": "Movie theaters",
+            "NC_rating": "30-35",
+            "dBA": "38-43*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Apartments",
+            "NC_rating": "30-35",
+            "dBA": "38-43*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Hotel bedrooms",
+            "NC_rating": "30-35",
+            "dBA": "38-43*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Courthouses",
+            "room_type": "Courtrooms",
+            "NC_rating": "35-40",
+            "dBA": "43-48*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Open-plan offices",
+            "NC_rating": "35-40",
+            "dBA": "43-48*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Education",
+            "room_type": "Open-plan schools",
+            "NC_rating": "35-40",
+            "dBA": "43-48*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Libraries",
+            "NC_rating": "35-40",
+            "dBA": "43-48*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Lobbies, public areas",
+            "NC_rating": "35-40",
+            "dBA": "43-48*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurants",
+            "NC_rating": "40-45",
+            "dBA": "48-53*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Public offices (large)",
+            "NC_rating": "40-45",
+            "dBA": "48-53*",
+            "notes": "RC preferred, NC alternative, dBA not recommended for use in design of HVAC systems"
         }
     ]
 }
