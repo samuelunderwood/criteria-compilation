@@ -16,6 +16,7 @@ Currently, our database cites criteria from 38 references, including:
 
 ## Background Noise Levels
 [Search for Recommended Background Noise Levels](search.html)
+[Database Formatting Norms](norms.html)
 
 ## Reverberation Time (RT)
 Coming soon...
