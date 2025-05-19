@@ -1773,316 +1773,6 @@
             "notes": "Laeq,30min"
         }
     ],
-    "well_v2_Q34-2024": [
-        {
-            "category": "Other",
-            "room_type": "Areas for conferencing",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10, Enclosed rooms where two or more people use AV/telecommunication equipment to communicate to external parties"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for learning",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10, Rooms where students and distance learners receive educational information or training, by way of a lecturer, teacher, or virtually through an online platform"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for speaking",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Enclosed areas for concentration",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Open areas for concentration",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas with regularly used PA systems",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for dining (excluding kitchenettes)",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas with machinery and appliances used by occupants",
-            "dBA": "\u226455/65",
-            "dBC": "\u226475",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for conferencing",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10, Enclosed rooms where two or more people use AV/telecommunication equipment to communicate to external parties"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for learning",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10, Rooms where students and distance learners receive educational information or training, by way of a lecturer, teacher, or virtually through an online platform"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for speaking",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Enclosed areas for concentration",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Open areas for concentration",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas with regularly used PA systems",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas for dining (excluding kitchenettes)",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Other",
-            "room_type": "Areas with machinery and appliances used by occupants",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Security",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Baggage handling areas",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Industry, Shops, Garages",
-            "room_type": "Commercial kitchens",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Laboratories",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Security",
-            "dBA": "\u226455/65",
-            "dBC": "\u226475",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Baggage handling areas",
-            "dBA": "\u226455/65",
-            "dBC": "\u226475",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Industry, Shops, Garages",
-            "room_type": "Commercial kitchens",
-            "dBA": "\u226455/65",
-            "dBC": "\u226475",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Laboratories",
-            "room_type": "Laboratories",
-            "dBA": "\u226455/65",
-            "dBC": "\u226475",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurants",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Cafeterias",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurants",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Cafeterias",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Bedrooms",
-            "dBA": "\u226435",
-            "dBC": "",
-            "notes": "Leq,12h (including 10pm-7am)"
-        },
-        {
-            "category": "Hotel/Motel",
-            "room_type": "Guest Rooms",
-            "dBA": "\u226435",
-            "dBC": "",
-            "notes": "Leq,12h (including 10pm-7am)"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Open-plan offices",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Open-plan offices",
-            "dBA": "\u226450/60",
-            "dBC": "\u226470",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private offices",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private offices",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Education",
-            "room_type": "Study rooms",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Education",
-            "room_type": "Study rooms",
-            "dBA": "\u226445/55",
-            "dBC": "\u226465",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Education",
-            "room_type": "Lecture rooms",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Education",
-            "room_type": "Lecture rooms",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Auditoriums",
-            "dBA": "\u226440/50",
-            "dBC": "\u226460",
-            "notes": "Leq/L10"
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Auditoriums",
-            "dBA": "\u226435/45",
-            "dBC": "\u226455",
-            "notes": "Leq/L10"
-        }
-    ],
     "NASM-primer-2000": [
         {
             "category": "Auditoria, Music Halls, Theaters, and Studios",
@@ -3078,204 +2768,6 @@
             "dBC": 70,
             "RC_rating": "",
             "notes": "Intrusive noise is addressed here for use in evaluating possible non-HVAC noise that is likely to contribute to background noise levels"
-        }
-    ],
-    "beranek-1960": [
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Broadcast studios",
-            "NC_rating": "15-20",
-            "dBA": "25-30*",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Concert halls",
-            "NC_rating": "15-20",
-            "dBA": "25-30*",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Legitimate theaters (500 seats",
-            "NC_rating": "",
-            "dBA": "",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Music rooms",
-            "NC_rating": "25",
-            "dBA": "35*",
-            "notes": ""
-        },
-        {
-            "category": "Education",
-            "room_type": "Classrooms (unamplified)",
-            "NC_rating": "25",
-            "dBA": "35*",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Television studios",
-            "NC_rating": "25",
-            "dBA": "35*",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Apartments",
-            "NC_rating": "25-30",
-            "dBA": "35-40*",
-            "notes": ""
-        },
-        {
-            "category": "Hotels/Motels",
-            "room_type": "Individual rooms or suites",
-            "NC_rating": "25-30",
-            "dBA": "35-40*",
-            "notes": ""
-        },
-        {
-            "category": "Auditoria, Music Halls, Theaters, and Studios",
-            "room_type": "Assembly halls (amplified)",
-            "NC_rating": "25-35",
-            "dBA": "35-40*",
-            "notes": ""
-        },
-        {
-            "category": "Residences, Apartments, Condominiums",
-            "room_type": "Homes (Sleeping areas)",
-            "NC_rating": "25-35",
-            "dBA": "35-45*",
-            "notes": "Room air conditioners manufactured prior to 1957 commonly produce levels of 40-55 dBA in sleeping areas"
-        },
-        {
-            "category": "Cinema",
-            "room_type": "Movie theaters",
-            "NC_rating": "30",
-            "dBA": "40*",
-            "notes": ""
-        },
-        {
-            "category": "Hospitals and Clinics",
-            "room_type": "Hospitals",
-            "NC_rating": "30",
-            "dBA": "40*",
-            "notes": ""
-        },
-        {
-            "category": "Places of Worship",
-            "room_type": "Churches (unamplified)",
-            "NC_rating": "25",
-            "dBA": "35*",
-            "notes": ""
-        },
-        {
-            "category": "Courthouses",
-            "room_type": "Courtrooms (unamplified)",
-            "NC_rating": "25",
-            "dBA": "30-35*",
-            "notes": ""
-        },
-        {
-            "category": "Public Buildings",
-            "room_type": "Libraries",
-            "NC_rating": "30",
-            "dBA": "40-45*",
-            "notes": ""
-        },
-        {
-            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
-            "room_type": "Restaurants",
-            "NC_rating": "45",
-            "dBA": "55*",
-            "notes": ""
-        },
-        {
-            "category": "Indoor Sports Activities",
-            "room_type": "Coliseums for sports only (amplified)",
-            "NC_rating": "50",
-            "dBA": "60*",
-            "notes": ""
-        },
-        {
-            "category": "Offices",
-            "room_type": "Executive offices",
-            "NC_rating": "20-30",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Conference rooms for 50 people",
-            "NC_rating": "20-30",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Private or semiprivate offices",
-            "NC_rating": "30-35",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Reception rooms",
-            "NC_rating": "30-35",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Small Conference rooms for 20 people",
-            "NC_rating": "30-35",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Medium-sized offices",
-            "NC_rating": "30-35",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Industrial business offices",
-            "NC_rating": "35-40",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Large engineering and drafting rooms",
-            "NC_rating": "40-50",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Secreterial areas (typing)",
-            "NC_rating": "50-55",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Accounting areas (business machines)",
-            "NC_rating": "50-55",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
-        },
-        {
-            "category": "Offices",
-            "room_type": "Blueprint rooms",
-            "NC_rating": "50-55",
-            "dBA": "",
-            "notes": "Measurements should be made with office in normal operation"
         }
     ],
     "beranek-1971": [
@@ -5304,6 +4796,317 @@
             "dBA": "55/65",
             "dBC": "75/85",
             "notes": "Hourly Leq/Lmax,slow"
+        }
+    ],
+    "beranek-1960": [],
+    "well_v2_Q34-2024": [
+        {
+            "category": "Other",
+            "room_type": "Areas for conferencing",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10, Enclosed rooms where two or more people use AV/telecommunication equipment to communicate to external parties"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for learning",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10, Rooms where students and distance learners receive educational information or training, by way of a lecturer, teacher, or virtually through an online platform"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for speaking",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Enclosed areas for concentration",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Open areas for concentration",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas with regularly used PA systems",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for dining (excluding kitchenettes)",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas with machinery and appliances used by occupants",
+            "dBA": "\u226455/65",
+            "dBC": "\u226475",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for conferencing",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10, Enclosed rooms where two or more people use AV/telecommunication equipment to communicate to external parties"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for learning",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10, Rooms where students and distance learners receive educational information or training, by way of a lecturer, teacher, or virtually through an online platform"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for speaking",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Enclosed areas for concentration",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Open areas for concentration",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas with regularly used PA systems",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas for dining (excluding kitchenettes)",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Other",
+            "room_type": "Areas with machinery and appliances used by occupants",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Security",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Baggage handling areas",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Industry, Shops, Garages",
+            "room_type": "Commercial kitchens",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Laboratories",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Security",
+            "dBA": "\u226455/65",
+            "dBC": "\u226475",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Public Buildings",
+            "room_type": "Baggage handling areas",
+            "dBA": "\u226455/65",
+            "dBC": "\u226475",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Industry, Shops, Garages",
+            "room_type": "Commercial kitchens",
+            "dBA": "\u226455/65",
+            "dBC": "\u226475",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Laboratories",
+            "room_type": "Laboratories",
+            "dBA": "\u226455/65",
+            "dBC": "\u226475",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurants",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Cafeterias",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Restaurants",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Restaurants, Cafeterias, Lounges, Communal Dining",
+            "room_type": "Cafeterias",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Residences, Apartments, Condominiums",
+            "room_type": "Bedrooms",
+            "dBA": "\u226435",
+            "dBC": "",
+            "notes": "Leq,12h (including 10pm-7am)"
+        },
+        {
+            "category": "Hotels/Motels",
+            "room_type": "Guest Rooms",
+            "dBA": "\u226435",
+            "dBC": "",
+            "notes": "Leq,12h (including 10pm-7am)"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Open-plan offices",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Open-plan offices",
+            "dBA": "\u226450/60",
+            "dBC": "\u226470",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private offices",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Private offices",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Education",
+            "room_type": "Study rooms",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Education",
+            "room_type": "Study rooms",
+            "dBA": "\u226445/55",
+            "dBC": "\u226465",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference rooms",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Offices",
+            "room_type": "Conference rooms",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Education",
+            "room_type": "Classrooms",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Education",
+            "room_type": "Lecture rooms",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Education",
+            "room_type": "Lecture rooms",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Auditoriums",
+            "dBA": "\u226440/50",
+            "dBC": "\u226460",
+            "notes": "Leq/L10"
+        },
+        {
+            "category": "Auditoria, Music Halls, Theaters, and Studios",
+            "room_type": "Auditoriums",
+            "dBA": "\u226435/45",
+            "dBC": "\u226455",
+            "notes": "Leq/L10"
         }
     ]
 }
