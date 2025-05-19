@@ -14,6 +14,8 @@ Currently, our database cites criteria from 38 references, including:
 * Conference presentations
 * Journal articles
 
+Interested in contributing or providing feedback? Contact [Samuel Underwood](samuelunderwood@huskers.unl.edu) for more information.
+
 ## Background Noise Levels
 [Search for Recommended Background Noise Levels](search.html)
 
